@@ -54,5 +54,6 @@ Thanks to the Ultralytics team, they did an excellent project.
 ## Reference
 
 1. [github.com](https://github.com/ultralytics/ultralytics)
-2. [arxiv.org/pdf/2109.10021](https://arxiv.org/pdf/2109.10021)
+2. https://arxiv.org/pdf/1612.00796
+3. [arxiv.org/pdf/2109.10021](https://arxiv.org/pdf/2109.10021)
 
