@@ -1,6 +1,6 @@
 # YOLO_EWC
 
-<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20250710155100668.png" alt="image-20250710155100668" style="zoom:50%;" />
+<img src="https://github.com/nl1xx/yolo-ewc/blob/master/EWC.png" alt="EWC" style="zoom:50%;" />
 
 This repository implements the EWC algorithm based on the official code of **Ultralytics** to achieve continuous learning, and it is uncertain what the final effect of continuous learning will be.
 
