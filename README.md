@@ -30,7 +30,7 @@ python compute_fisher.py --model runs/detect/train_A/weights/best.pt --data path
 
 ```
 # ewc_data只包含上一个任务的文件
-yolo task=detect mode=train model=runs/detect/train_A/weights/best.pt data=path/to/task_B.yaml epochs=50 name=train_B ewc_data=ewc_A.pt ewc_lambda=2500.0
+python run_training.py task=detect mode=train model=runs/detect/train_A/weights/best.pt data=path/to/task_B.yaml epochs=50 name=train_B ewc_data=ewc_A.pt ewc_lambda=2500.0
 ```
 
 4. **Calculate the EWC data for task B**
